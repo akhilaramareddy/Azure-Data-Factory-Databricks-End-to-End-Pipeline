@@ -4,7 +4,7 @@
 This project demonstrates an **end-to-end data engineering pipeline** using **Azure Data Factory (ADF)**, **Azure Databricks**, and **Azure Data Lake Storage Gen2 (ADLS)**.  
 It implements the **Medallion Architecture** (Bronze → Silver → Gold) to ingest, process, and store trip transaction & ratings data for analytics.
 
-![Project Architecture](images/project_architecture.png)
+
 
 ---
 
